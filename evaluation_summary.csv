@@ -1,0 +1,6 @@
+architecture,mean_quality_score,mean_completeness,mean_clarity,mean_task_relevance,mean_reasoning_depth,mean_specificity,mean_latency_seconds,mean_prompt_length,mean_response_length
+Hybrid Chunked Multi-Agent,18.35,4.25,4.9,4.1,3.4,1.7,33.50115,10773.15,712.55
+Planner-Reviewer Multi-Agent,19.0,4.85,5.0,4.2,3.2,1.75,10.88115,4819.6,802.0
+Planner-Reviewer-Validator Multi-Agent,17.45,4.25,4.85,3.7,3.0,1.65,17.817349999999998,8111.85,591.85
+Sequential Multi-Agent,17.25,3.95,4.55,3.8,3.6,1.35,20.656100000000002,4868.95,639.3
+Single-Agent Baseline,18.45,4.2,4.85,4.4,3.2,1.8,5.91955,2049.3,695.75
